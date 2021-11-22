@@ -1,3 +1,22 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+
 .navbar {
   background-color: #612417;
+}
+
+.about-us {
+  background-color: goldenrod;
+  color: whitesmoke;
+}
+
+.margin {
+  padding-top: 15px;
+  padding-bottom: 15px;
+} 
+
+.partners {
+  background-color: #323232;
+  color: whitesmoke;
 }
