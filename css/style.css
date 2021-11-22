@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-  background-color: #612417;
+  background-color: orangered;
 }
 
 .about-us {
@@ -22,11 +22,11 @@ body {
 }
 
 #products {
-  background-color: orangered;
+  background-color: rgb(136, 9, 9);
   color: whitesmoke;
 }
 
 .bg-footer {
-  background-color: #612417;
+  background-color: orangered;
   color: whitesmoke;
 }
