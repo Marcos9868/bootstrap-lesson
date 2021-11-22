@@ -16,7 +16,17 @@ body {
   padding-bottom: 15px;
 } 
 
-.partners {
+#partners {
   background-color: #323232;
+  color: whitesmoke;
+}
+
+#products {
+  background-color: orangered;
+  color: whitesmoke;
+}
+
+.bg-footer {
+  background-color: #612417;
   color: whitesmoke;
 }
